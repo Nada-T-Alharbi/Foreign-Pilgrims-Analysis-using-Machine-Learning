@@ -22,7 +22,7 @@ The dataset contains information on foreign pilgrims categorized by:
 ## **Data Source**
 The dataset used in this project was obtained from:
 
-🔗 **[Website Name](https://www.haj.gov.sa/OpenData)**
+🔗 **[ministry of hajj and umrah](https://www.haj.gov.sa/OpenData)**
 
 
 ## **Installation & Setup**
