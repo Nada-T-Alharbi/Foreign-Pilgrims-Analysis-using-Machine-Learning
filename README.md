@@ -29,7 +29,7 @@ The dataset used in this project was obtained from:
 To run this project, you need Python and some libraries installed.
 
 # **Result**
-The Logistic Regression model achieved an accuracy of 98.59%, suggesting high predictive capability.
+The Logistic Regression model achieved an accuracy of 99%, suggesting high predictive capability.
 ## **Contributing**
 Contributions are welcome! Feel free to fork this repository and submit a pull request.
 
