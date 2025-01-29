@@ -1,6 +1,6 @@
-# Foreign-Pilgrims-Analysis-using-Machine-Learning
+
 # **Foreign Pilgrims Analysis using Machine Learning**
-### A Data Science Project for Predicting the Number of Foreign Pilgrims
+### A Project for Predicting the Number of Foreign Pilgrims
 
 ## **Project Overview**
 This project analyzes and predicts the number of foreign pilgrims based on historical data, including factors such as **year, month, and age category**. The dataset is preprocessed, cleaned, and used to train machine learning models such as **Logistic Regression**.
